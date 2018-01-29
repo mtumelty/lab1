@@ -1,3 +1,3 @@
 I am still working on...
 1) Creating the color screen to reflect the color of my LED
-	-stuck with syntax and understanding
+	-stuck with syntax and understanding of how to get window to change colors
